@@ -1,0 +1,11 @@
+
+python>=3.9
+pandas
+numpy
+scikit-learn
+xgboost
+mlflow
+streamlit
+matplotlib
+seaborn
+joblib
